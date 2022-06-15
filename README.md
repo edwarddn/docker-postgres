@@ -1,4 +1,4 @@
-# Docker Postgres
+# Postgres docker-compose
 
 ### Requirements
 
