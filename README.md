@@ -8,7 +8,7 @@
 ### Run
 
 ```bash
-git clone git@github.com:edwarddn/docker-postgres.git
+git clone https://github.com/edwarddn/docker-postgres.git
 cd docker-postgres
 docker compose up -d
 ```
